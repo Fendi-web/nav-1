@@ -1,0 +1,13 @@
+12
+30D:\Project\nav-1\src\style.css132840090101051508 0
+21D:\Project\nav-1\dist132840136797936700 1
+27D:\Project\nav-1\src\images132837756479361199 1
+20D:\Project\nav-1\src132837600413098034 1
+43D:\Project\nav-1\dist\index.892b2302.js.map132840136797896648 0
+31D:\Project\nav-1\src\index.html132839646778708204 0
+28D:\Project\nav-1\src\main.js132840102973712407 0
+37D:\Project\nav-1\src\images\bili.jpeg132837798777472588 0
+40D:\Project\nav-1\dist\index.796b6ae6.css132840136797822363 0
+44D:\Project\nav-1\dist\index.796b6ae6.css.map132840136797906726 0
+39D:\Project\nav-1\dist\index.892b2302.js132840136797822363 0
+32D:\Project\nav-1\dist\index.html132840136797822363 0

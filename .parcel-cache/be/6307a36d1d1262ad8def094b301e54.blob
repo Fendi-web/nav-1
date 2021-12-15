@@ -1,0 +1,4 @@
+$('.addButton')
+.on('click',()=>{
+   const url = window.prompt('请问要添加的网址是啥？')
+})
